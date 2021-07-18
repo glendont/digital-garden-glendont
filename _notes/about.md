@@ -15,3 +15,7 @@ Hey there! I’m Glendon, a current senior from the Renaissance Engineering Prog
 - Jul 2020 - May 2021: Solutions Architect Intern @ Amazon Web Services (Digital Native Businesses, Startups Solutions Architecture)
 - Apr 2020 - Jul 2020: Software Engineer Intern @ Seagate Technology (Analytics & Business Solutions)
 - Dec 2019 - Apr 2020: Data Science Consultant @ Deloitte Consulting
+
+### 📞 Reach out 
+- [Linkedin](https://www.linkedin.com/in/glendonthaiw/)
+- [Email](mailto:glendon888@gmail.com)
