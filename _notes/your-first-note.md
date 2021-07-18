@@ -4,12 +4,13 @@ title: Your first seed
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
 ### Link syntax
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
+- This is the page about me: [[about]]
 - Using the note title: [[a note about cats]]
 - Using the note's filename: [[cats]]
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
@@ -79,7 +80,7 @@ You can add code blocks with full syntax color highlighting by wrapping code sni
 
 ```js
 // Here's a bit of JavaScript:
-console.log('hello!')
+console.log("hello!");
 ```
 
 ```rb
@@ -93,7 +94,6 @@ end
 $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
 
-
 ### Next steps
 
 **If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support my work**. ☕
@@ -105,5 +105,3 @@ The easiest way to build your own digital garden based on this template is to re
 Go forth, have fun, and learn new something every day! ✌️
 
 ### Footnotes
-
-
