@@ -3,11 +3,14 @@ title: Introduction to AWS Serverless and Software Design
 ---
 
 ### Overview
+---
 [Amazon Web Services (AWS)](https://www.linkedin.com/company/amazon-web-services/) & [Ellipsis SMU Information Systems Society](https://www.linkedin.com/company/ellipsis-smu-computing-and-information-systems-society/) Tech Series Workshop: Introduction to Serverless and Software Design.  
   
 Had a blast earlier this week where I shared about serverless architectures to students from [Singapore Management University](https://www.linkedin.com/company/singapore-management-university/) at their annual Ellipsis Tech Series Hackathon!  
   
   ### Content
+---
+  
 In the 2 hour session, we covered:  
 1) Introduction to Serverless  
 2) AWS Serverless Services  
@@ -22,6 +25,7 @@ Thank you so much to [#AWSEducate](https://www.linkedin.com/feed/hashtag/?keywor
 All the best to all hackathon participants!  
   
 ### Resources
+---
 - [Linkedin](https://www.linkedin.com/posts/glendonthaiw_awseducate-activity-6707852641642397696-WzfV)
 - Youtube
 - [Github Repository](https://github.com/glendont/aws-serverless-workshop)
