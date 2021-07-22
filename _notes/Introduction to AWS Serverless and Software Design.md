@@ -1,5 +1,5 @@
 ---
-title: Workshop: Introduction to AWS Serverless and Software Design
+title: Introduction to AWS Serverless and Software Design
 ---
 
 ## Overview
